@@ -27,6 +27,7 @@ class MyEmployeeTarun{
         System.out.println("The Name is : " + na);
         System.out.println("The salary is : " + s);
     }
+
     
 
 //    public int getId(){
@@ -44,6 +45,7 @@ public class Constructors_Quiz {
         MyEmployeeTarun mint = new MyEmployeeTarun();
         MyEmployeeTarun itachi = new MyEmployeeTarun(12,"Obito",10000);
         MyEmployeeTarun kakashi = new MyEmployeeTarun("Madara",12000);
+        System.out.println("hello world");
 
 //        MyEmployeeTarun ob = new MyEmployeeTarun(12,"Obito",10000);
 //        System.out.println(ob.getId());
