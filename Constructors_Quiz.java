@@ -47,6 +47,7 @@ public class Constructors_Quiz {
         MyEmployeeTarun kakashi = new MyEmployeeTarun("Madara",12000);
         System.out.println("hello world");
         System.out.println("hello world");
+        
 
 //        MyEmployeeTarun ob = new MyEmployeeTarun(12,"Obito",10000);
 //        System.out.println(ob.getId());
