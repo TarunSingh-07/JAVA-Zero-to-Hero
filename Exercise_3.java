@@ -2,6 +2,14 @@ package com.company;
 import java.util.Scanner;
 import java.util.Random;
 
+class GuessTheNumber{
+    private int num;
+
+    public GuessTheNumber(){
+
+    }
+}
+
 public class Exercise_3 {
     public static void main(String[] args) {
         /*
@@ -13,6 +21,7 @@ public class Exercise_3 {
         4. getter and setter for noOfGuesses
         Use properties such as noOfGuesses, etc to get this task done!
          */
-        
+        System.out.println("Welcome to the Guess the number game");
+
     }
 }
