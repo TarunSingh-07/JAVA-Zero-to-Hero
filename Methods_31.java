@@ -3,7 +3,7 @@ package com.company;
 public class Methods_31 {
     /* static method se aap static ko bina "obj" create kr ke cl kr sakte he nhi toh apko
            "obj" banana padega or call karna padega  */
-    static int logic(int x, int y){
+     static int logic(int x, int y){
         int z;
         if (x > y) {
             z = x+y;
@@ -18,8 +18,8 @@ public class Methods_31 {
         int b = 7;
         int c ;
         // Method invocation using Object creation
-        // Methods_30 obj = new Methods_30();
-        // c = obj.logic(a, b);
+//         Methods_31 obj = new Methods_31();
+//         c = obj.logic(a, b);
         c = logic(a,b);
 
         int a1 = 2;
