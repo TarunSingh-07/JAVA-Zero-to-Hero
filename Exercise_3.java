@@ -58,6 +58,5 @@ public class Exercise_3 {
            b = g.isCorrectNumber();
            System.out.println(b);
         }
-
     }
 }
